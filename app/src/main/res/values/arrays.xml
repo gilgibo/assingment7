@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fruit">
+        <item name="사과"></item>
+        <item name="오렌지"></item>
+        <item name="자몽"></item>
+        <item name="포도"></item>
+    </string-array>
+</resources>
